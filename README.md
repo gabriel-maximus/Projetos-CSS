@@ -5,3 +5,4 @@
   * Imagem com Transição
   * Menu Hamburguer
   * Redes Sociais com KeyFrames
+  * Desenho Animado de Chat
